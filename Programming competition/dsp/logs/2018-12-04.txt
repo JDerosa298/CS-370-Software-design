@@ -1,0 +1,9 @@
+[15:46:45 INFO] Starting new session...
+[15:46:45 INFO] Beginning registration of default user 'Judge'
+[15:47:13 INFO] Registration completed successfully!
+[15:47:13 INFO] Type 'help' for a list of commands.
+[15:52:07 INFO] Received connection from 127.0.0.1
+[15:52:07 INFO] User Judge logged in from 127.0.0.1
+[15:52:07 INFO] Sending competition data to user 'Judge'...
+[15:52:30 INFO] Sending competition data to user 'Judge'...
+[15:52:30 INFO] User Judge uploaded a new problem.
